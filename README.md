@@ -35,5 +35,11 @@ Curated list of web resources to check daily
 
 ## Technology News
 - [Hackaday](http://hackaday.com/)
-- [HackerNews](http://news.ycombinator.com/)
+- **[HackerNews](http://news.ycombinator.com/)**
+
+
+## Web Design and Development
 - [Laravel News](http://www.laravel-news.com/archive)
+- [Laravel Reddit](http://www.reddit.com/r/laravel)
+- **[Sitepoint](http://www.sitepoint.com/)**
+- **[Smashing Magazine](http://www.smashingmagazine.com/)**
