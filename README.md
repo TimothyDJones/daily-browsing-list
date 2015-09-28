@@ -37,6 +37,7 @@ Curated list of web resources to check daily
 - [Hackaday](http://hackaday.com/)
 - **[HackerNews](http://news.ycombinator.com/)**
 - [Methods & Tools](http://www.methodsandtools.com/)
+- [re/code](http://recode.net/)
 
 
 ## Web Design and Development
@@ -45,3 +46,5 @@ Curated list of web resources to check daily
 - [The Next Web](http://thenextweb.com/)
 - **[Sitepoint](http://www.sitepoint.com/)**
 - **[Smashing Magazine](http://www.smashingmagazine.com/)**
+- [Tuts+ Code](http://code.tutsplus.com/)
+- [Tuts+ Web Design](http://webdesign.tutsplus.com/)
