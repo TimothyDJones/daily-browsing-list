@@ -44,6 +44,7 @@ Curated list of web resources to check daily
 - [Laravel News](http://www.laravel-news.com/archive)
 - [Laravel Reddit](http://www.reddit.com/r/laravel)
 - [The Next Web](http://thenextweb.com/)
+- [Scotch.io](http://scotch.io)
 - **[Sitepoint](http://www.sitepoint.com/)**
 - **[Smashing Magazine](http://www.smashingmagazine.com/)**
 - [Tuts+ Code](http://code.tutsplus.com/)
