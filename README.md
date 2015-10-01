@@ -47,11 +47,13 @@ Curated list of web resources to check daily
 
 ## Technology News
 - [Computerworld](http://www.computerworld.com/)
+- [eWeek.com](http://www.eweek.com/)
 - [Hackaday](http://hackaday.com/)
 - **[HackerNews](http://news.ycombinator.com/)**
 - [InfoQ](http://www.infoq.com/)
 - [InfoWorld](http://www.infoworld.com/)
 - [ITworld](http://www.itworld.com/)
+- [Motherboard](http://motherboard.vice.com/)
 - [Methods & Tools](http://www.methodsandtools.com/)
 - [re/code](http://recode.net/)
 - [TechCrunch](http://techcrunch.com/)
