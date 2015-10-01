@@ -32,9 +32,12 @@ Curated list of web resources to check daily
 ## Mapping/Cartography/GIS/Geography
 
 ## News/Politics/Current Events
+- [Ozy](http://www.ozy.com/)
+- [Politico](http://www.politico.com/)
 - [Salon](http://www.salon.com/)
 - [Slate](http://www.slate.com/)
 - [The Atlantic](http://www.theatlantic.com/)
+- [Vox](http://www.vox.com/)
 
 ## Philosophy
 
@@ -51,12 +54,16 @@ Curated list of web resources to check daily
 - [ITworld](http://www.itworld.com/)
 - [Methods & Tools](http://www.methodsandtools.com/)
 - [re/code](http://recode.net/)
+- [TechCrunch](http://techcrunch.com/)
+- [The Verge](http://www.theverge.com/)
+- [Voxxed](https://www.voxxed.com/)
 - [Wired](http://www.wired.com/)
 
 
 ## Web Design and Development
 - [Laravel News](http://www.laravel-news.com/archive)
 - [Laravel Reddit](http://www.reddit.com/r/laravel)
+- [ReadWrite](http://readwrite.com/)
 - [The Next Web](http://thenextweb.com/)
 - [Scotch.io](http://scotch.io)
 - **[Sitepoint](http://www.sitepoint.com/)**
