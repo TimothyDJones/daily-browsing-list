@@ -4,6 +4,7 @@ Curated list of web resources to check daily
 ## Culture
 - [Aeon Magazine](http://aeon.co/magazine/)
 - [Arts & Letters Daily](http://aldaily.com)
+- [Prospect](http://www.prospectmagazine.co.uk/)
 - [The New Yorker](http://www.newyorker.com/)
 
 
@@ -41,6 +42,8 @@ Curated list of web resources to check daily
 
 ## Philosophy
 
+## Programming/Development
+- [JAXenter](https://jaxenter.com/)
 
 ## Psychology/Personal Development
 - [Farnam Street Blog (Shane Parrish)](https://www.farnamstreetblog.com/)
@@ -63,6 +66,9 @@ Curated list of web resources to check daily
 
 
 ## Web Design and Development
+- [A List Apart](http://alistapart.com/)
+- [Design Instruct](http://designinstruct.com/)
+- [DesignM.ag](http://designm.ag/)
 - [Laravel News](http://www.laravel-news.com/archive)
 - [Laravel Reddit](http://www.reddit.com/r/laravel)
 - [ReadWrite](http://readwrite.com/)
@@ -72,3 +78,5 @@ Curated list of web resources to check daily
 - **[Smashing Magazine](http://www.smashingmagazine.com/)**
 - [Tuts+ Code](http://code.tutsplus.com/)
 - [Tuts+ Web Design](http://webdesign.tutsplus.com/)
+- [Tympanus](http://tympanus.net/codrops/)
+- [Webdesign Depot](http://www.webdesignerdepot.com/)
