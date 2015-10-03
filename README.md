@@ -59,6 +59,7 @@ Curated list of web resources to check daily
 - [Motherboard](http://motherboard.vice.com/)
 - [Methods & Tools](http://www.methodsandtools.com/)
 - [re/code](http://recode.net/)
+- [TechBeacon](http://techbeacon.com/)
 - [TechCrunch](http://techcrunch.com/)
 - [The Verge](http://www.theverge.com/)
 - [Voxxed](https://www.voxxed.com/)
