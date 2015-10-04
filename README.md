@@ -31,6 +31,7 @@ Curated list of web resources to check daily
 
 
 ## Mapping/Cartography/GIS/Geography
+- [Atlas Obscura](http://www.atlasobscura.com/)
 
 ## News/Politics/Current Events
 - [Ozy](http://www.ozy.com/)
