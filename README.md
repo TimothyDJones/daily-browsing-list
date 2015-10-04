@@ -40,6 +40,9 @@ Curated list of web resources to check daily
 - [The Atlantic](http://www.theatlantic.com/)
 - [Vox](http://www.vox.com/)
 
+## Mathematics/Science
+- [Quanta Magazine](https://www.quantamagazine.org/)
+
 ## Philosophy
 
 ## Programming/Development
