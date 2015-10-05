@@ -75,6 +75,7 @@ Curated list of web resources to check daily
 - [Slashdot](http://slashdot.org/)
 - [TechBeacon](http://techbeacon.com/)
 - [TechCrunch](http://techcrunch.com/)
+- [Tecmint](http://www.tecmint.com/)
 - [The Register](http://www.theregister.co.uk/)
 - [The Verge](http://www.theverge.com/)
 - [Voxxed](https://www.voxxed.com/)
