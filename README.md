@@ -43,7 +43,9 @@ Curated list of web resources to check daily
 - [Vox](http://www.vox.com/)
 
 ## Mathematics/Science
+- [American Scientist](http://www.americanscientist.org/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
+- [Scientific American](http://www.scientificamerican.com/)
 
 ## Philosophy
 
@@ -54,8 +56,10 @@ Curated list of web resources to check daily
 - [Farnam Street Blog (Shane Parrish)](https://www.farnamstreetblog.com/)
 
 ## Technology News
+- [Ars Technica](http://arstechnica.com/)
 - [Computerworld](http://www.computerworld.com/)
 - [eWeek.com](http://www.eweek.com/)
+- [ExtremeTech](http://www.extremetech.com/)
 - [Hackaday](http://hackaday.com/)
 - **[HackerNews](http://news.ycombinator.com/)**
 - [InfoQ](http://www.infoq.com/)
