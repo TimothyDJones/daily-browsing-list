@@ -4,6 +4,7 @@ Curated list of web resources to check daily
 ## Culture
 - [Aeon Magazine](http://aeon.co/magazine/)
 - [Arts & Letters Daily](http://aldaily.com)
+- [Pacific Standard](http://www.psmag.com/)
 - [Prospect](http://www.prospectmagazine.co.uk/)
 - [The New Yorker](http://www.newyorker.com/)
 
