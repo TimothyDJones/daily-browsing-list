@@ -60,6 +60,7 @@ Curated list of web resources to check daily
 
 ## Technology News
 - [Ars Technica](http://arstechnica.com/)
+- [Charlie Stross' Diary](http://www.antipope.org/charlie/blog-static/)
 - [Computerworld](http://www.computerworld.com/)
 - [eWeek.com](http://www.eweek.com/)
 - [ExtremeTech](http://www.extremetech.com/)
