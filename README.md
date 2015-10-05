@@ -4,8 +4,11 @@ Curated list of web resources to check daily
 ## Culture
 - [Aeon Magazine](http://aeon.co/magazine/)
 - [Arts & Letters Daily](http://aldaily.com)
+- [io9](http://io9.com/)
+- [New York Review of Books](http://www.nybooks.com/)
 - [Pacific Standard](http://www.psmag.com/)
 - [Prospect](http://www.prospectmagazine.co.uk/)
+- [The American Scholar](https://theamericanscholar.org/)
 - [The New Yorker](http://www.newyorker.com/)
 
 
