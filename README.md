@@ -69,6 +69,7 @@ Curated list of web resources to check daily
 - [InfoQ](http://www.infoq.com/)
 - [InfoWorld](http://www.infoworld.com/)
 - [ITworld](http://www.itworld.com/)
+- [Mashable](http://mashable.com/)
 - [Make Use Of](http://www.makeuseof.com/)
 - [Motherboard](http://motherboard.vice.com/)
 - [Methods & Tools](http://www.methodsandtools.com/)
