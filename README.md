@@ -39,6 +39,7 @@ Curated list of web resources to check daily
 - [Atlas Obscura](http://www.atlasobscura.com/)
 
 ## News/Politics/Current Events
+- [Bloomberg Business](http://www.bloomberg.com/)
 - [Ozy](http://www.ozy.com/)
 - [Politico](http://www.politico.com/)
 - [Salon](http://www.salon.com/)
