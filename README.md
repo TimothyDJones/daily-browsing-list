@@ -40,6 +40,7 @@ Curated list of web resources to check daily
 
 ## News/Politics/Current Events
 - [Bloomberg Business](http://www.bloomberg.com/)
+- [Forbes](http://www.forbes.com/)
 - [Ozy](http://www.ozy.com/)
 - [Politico](http://www.politico.com/)
 - [Salon](http://www.salon.com/)
