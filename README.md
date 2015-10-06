@@ -39,13 +39,14 @@ Curated list of web resources to check daily
 - [Atlas Obscura](http://www.atlasobscura.com/)
 
 ## News/Politics/Current Events
+- [The Atlantic](http://www.theatlantic.com/)
 - [Bloomberg Business](http://www.bloomberg.com/)
+- [The Christian Science Monitor](http://www.csmonitor.com/)
 - [Forbes](http://www.forbes.com/)
 - [Ozy](http://www.ozy.com/)
 - [Politico](http://www.politico.com/)
 - [Salon](http://www.salon.com/)
 - [Slate](http://www.slate.com/)
-- [The Atlantic](http://www.theatlantic.com/)
 - [Vox](http://www.vox.com/)
 
 ## Mathematics/Science
@@ -94,6 +95,7 @@ Curated list of web resources to check daily
 - [DesignM.ag](http://designm.ag/)
 - [Laravel News](http://www.laravel-news.com/archive)
 - [Laravel Reddit](http://www.reddit.com/r/laravel)
+- [ProgrammableWeb](http://www.programmableweb.com/)
 - [ReadWrite](http://readwrite.com/)
 - [The Next Web](http://thenextweb.com/)
 - [Scotch.io](http://scotch.io)
