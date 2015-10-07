@@ -42,6 +42,7 @@ Curated list of web resources to check daily
 - [The Atlantic](http://www.theatlantic.com/)
 - [Bloomberg Business](http://www.bloomberg.com/)
 - [The Christian Science Monitor](http://www.csmonitor.com/)
+- [The Daily Dot](http://www.dailydot.com/)
 - [Forbes](http://www.forbes.com/)
 - [Ozy](http://www.ozy.com/)
 - [Politico](http://www.politico.com/)
