@@ -51,6 +51,7 @@ Curated list of web resources to check daily
 
 ## Mathematics/Science
 - [American Scientist](http://www.americanscientist.org/)
+- [Gödel’s Lost Letter and P=NP](https://rjlipton.wordpress.com/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Scientific American](http://www.scientificamerican.com/)
 
