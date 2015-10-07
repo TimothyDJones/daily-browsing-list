@@ -68,6 +68,7 @@ Curated list of web resources to check daily
 - [Computerworld](http://www.computerworld.com/)
 - [eWeek.com](http://www.eweek.com/)
 - [ExtremeTech](http://www.extremetech.com/)
+- [GeekWire](http://www.geekwire.com/)
 - [Hackaday](http://hackaday.com/)
 - **[HackerNews](http://news.ycombinator.com/)**
 - [InfoQ](http://www.infoq.com/)
