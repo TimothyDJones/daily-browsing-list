@@ -111,3 +111,4 @@ Curated list of web resources to check daily
 - [Tuts+ Web Design](http://webdesign.tutsplus.com/)
 - [Tympanus](http://tympanus.net/codrops/)
 - [Webdesign Depot](http://www.webdesignerdepot.com/)
+- [Web Designer Hut](http://webdesignerhut.com/)
