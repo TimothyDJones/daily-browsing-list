@@ -40,6 +40,7 @@ Curated list of web resources to check daily
 
 ## News/Politics/Current Events
 - [The Atlantic](http://www.theatlantic.com/)
+- [BBC News](http://www.bbc.com/news)
 - [Bloomberg Business](http://www.bloomberg.com/)
 - [The Christian Science Monitor](http://www.csmonitor.com/)
 - [The Daily Dot](http://www.dailydot.com/)
