@@ -59,6 +59,7 @@ Curated list of web resources to check daily
 ## Philosophy
 
 ## Programming/Development
+- [ACM Queue](http://queue.acm.org/)
 - [JAXenter](https://jaxenter.com/)
 - [Lambda the Ultimate - The Programming Languages Weblog](http://lambda-the-ultimate.org/)
 
