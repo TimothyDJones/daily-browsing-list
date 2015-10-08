@@ -97,6 +97,7 @@ Curated list of web resources to check daily
 
 ## Web Design and Development
 - [A List Apart](http://alistapart.com/)
+- [David Walsh](http://davidwalsh.name/)
 - [Design Instruct](http://designinstruct.com/)
 - [DesignM.ag](http://designm.ag/)
 - [Laravel News](http://www.laravel-news.com/archive)
