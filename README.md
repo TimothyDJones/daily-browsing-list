@@ -60,6 +60,7 @@ Curated list of web resources to check daily
 
 ## Programming/Development
 - [JAXenter](https://jaxenter.com/)
+- [Lambda the Ultimate - The Programming Languages Weblog](http://lambda-the-ultimate.org/)
 
 ## Psychology/Personal Development
 - [Farnam Street Blog (Shane Parrish)](https://www.farnamstreetblog.com/)
