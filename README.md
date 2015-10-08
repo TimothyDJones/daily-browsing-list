@@ -97,9 +97,11 @@ Curated list of web resources to check daily
 
 ## Web Design and Development
 - [A List Apart](http://alistapart.com/)
+- [Code Geekz](https://codegeekz.com/)
 - [David Walsh](http://davidwalsh.name/)
 - [Design Instruct](http://designinstruct.com/)
 - [DesignM.ag](http://designm.ag/)
+- [DevZum](http://devzum.com/)
 - [Laravel News](http://www.laravel-news.com/archive)
 - [Laravel Reddit](http://www.reddit.com/r/laravel)
 - [ProgrammableWeb](http://www.programmableweb.com/)
