@@ -34,6 +34,12 @@ Curated list of web resources to check daily
 - [Indexed](http://thisisindexed.com/)
 - [xkcd](http://xkcd.com/)
 
+## Linux
+- [LinuxG.net](http://linuxg.net/)
+- [NoobsLab](http://www.noobslab.com/)
+- [openDesktop.org](http://opendesktop.org/)
+- [UbuntuUpdates](http://www.ubuntuupdates.org/)
+- [Web Upd8](http://www.webupd8.org/)
 
 ## Mapping/Cartography/GIS/Geography
 - [Atlas Obscura](http://www.atlasobscura.com/)
