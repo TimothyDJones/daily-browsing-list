@@ -64,6 +64,7 @@ Curated list of web resources to check daily
 - [Make Use Of](http://www.makeuseof.com/)
 - [Motherboard](http://motherboard.vice.com/)
 - [Methods & Tools](http://www.methodsandtools.com/)
+- [OSNews](http://www.osnews.com/)
 - [re/code](http://recode.net/)
 - [Slashdot](http://slashdot.org/)
 - [TechBeacon](http://techbeacon.com/)
