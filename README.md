@@ -34,6 +34,12 @@ Curated list of web resources to check daily
 - [Indexed](http://thisisindexed.com/)
 - [xkcd](http://xkcd.com/)
 
+## Linux
+- [LinuxG.net](http://linuxg.net/)
+- [NoobsLab](http://www.noobslab.com/)
+- [openDesktop.org](http://opendesktop.org/)
+- [UbuntuUpdates](http://www.ubuntuupdates.org/)
+- [Web Upd8](http://www.webupd8.org/)
 
 ## Mapping/Cartography/GIS/Geography
 - [Atlas Obscura](http://www.atlasobscura.com/)
@@ -46,8 +52,10 @@ Curated list of web resources to check daily
 - [The Christian Science Monitor](http://www.csmonitor.com/)
 - [The Daily Dot](http://www.dailydot.com/)
 - [Forbes](http://www.forbes.com/)
+- [The Morning News](http://www.themorningnews.org/)
 - [Ozy](http://www.ozy.com/)
 - [Politico](http://www.politico.com/)
+- [RawStory](http://www.rawstory.com/)
 - [Salon](http://www.salon.com/)
 - [Slate](http://www.slate.com/)
 - [Vox](http://www.vox.com/)
@@ -84,6 +92,7 @@ Curated list of web resources to check daily
 - [Make Use Of](http://www.makeuseof.com/)
 - [Motherboard](http://motherboard.vice.com/)
 - [Methods & Tools](http://www.methodsandtools.com/)
+- [OSNews](http://www.osnews.com/)
 - [Network World](http://www.networkworld.com/)
 - [re/code](http://recode.net/)
 - [Slashdot](http://slashdot.org/)
