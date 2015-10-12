@@ -62,6 +62,7 @@ Curated list of web resources to check daily
 - [Salon](http://www.salon.com/)
 - [Slate](http://www.slate.com/)
 - [Vox](http://www.vox.com/)
+- [The Weekly Standard](http://www.weeklystandard.com/)
 
 ## Mathematics/Science
 - [American Scientist](http://www.americanscientist.org/)
