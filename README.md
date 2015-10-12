@@ -52,6 +52,7 @@ Curated list of web resources to check daily
 - [Boing Boing](http://boingboing.net/)
 - [The Christian Science Monitor](http://www.csmonitor.com/)
 - [The Daily Dot](http://www.dailydot.com/)
+- [Digg](http://digg.com/)
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
 - [Ozy](http://www.ozy.com/)
