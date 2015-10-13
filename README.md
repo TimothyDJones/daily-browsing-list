@@ -71,6 +71,7 @@ Curated list of web resources to check daily
 - [Scientific American](http://www.scientificamerican.com/)
 
 ## Philosophy
+- [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/)
 
 ## Programming/Development
 - [ACM Queue](http://queue.acm.org/)
@@ -78,6 +79,8 @@ Curated list of web resources to check daily
 - [Lambda the Ultimate - The Programming Languages Weblog](http://lambda-the-ultimate.org/)
 
 ## Psychology/Personal Development
+- [The Art of Manliness](http://www.artofmanliness.com/)
+- [Brain Pickings](https://www.brainpickings.org/)
 - [Farnam Street Blog (Shane Parrish)](https://www.farnamstreetblog.com/)
 
 ## Technology News
