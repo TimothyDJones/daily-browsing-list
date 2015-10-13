@@ -84,6 +84,7 @@ Curated list of web resources to check daily
 - [Ars Technica](http://arstechnica.com/)
 - [Charlie Stross' Diary](http://www.antipope.org/charlie/blog-static/)
 - [Computerworld](http://www.computerworld.com/)
+- [Datamation](http://www.datamation.com/)
 - [eWeek.com](http://www.eweek.com/)
 - [ExtremeTech](http://www.extremetech.com/)
 - [GeekWire](http://www.geekwire.com/)
