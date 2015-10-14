@@ -69,6 +69,7 @@ Curated list of web resources to check daily
 - [American Scientist](http://www.americanscientist.org/)
 - [Gödel’s Lost Letter and P=NP](https://rjlipton.wordpress.com/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
+- [Science Daily](http://www.sciencedaily.com/)
 - [Scientific American](http://www.scientificamerican.com/)
 
 ## Philosophy
