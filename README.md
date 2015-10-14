@@ -55,6 +55,7 @@ Curated list of web resources to check daily
 - [The Christian Science Monitor](http://www.csmonitor.com/)
 - [The Daily Dot](http://www.dailydot.com/)
 - [Digg](http://digg.com/)
+- [FiveThirtyEight](http://fivethirtyeight.com/)
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
 - [Ozy](http://www.ozy.com/)
