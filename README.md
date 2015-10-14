@@ -9,6 +9,7 @@ Curated list of web resources to check daily
 - [Mental Floss](http://mentalfloss.com/)
 - [New York Review of Books](http://www.nybooks.com/)
 - [Pacific Standard](http://www.psmag.com/)
+- [The Paris Review](http://www.theparisreview.org/)
 - [Prospect](http://www.prospectmagazine.co.uk/)
 - [The American Scholar](https://theamericanscholar.org/)
 - [The New Yorker](http://www.newyorker.com/)
