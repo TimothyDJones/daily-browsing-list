@@ -102,6 +102,7 @@ Curated list of web resources to check daily
 - [Make Use Of](http://www.makeuseof.com/)
 - [Motherboard](http://motherboard.vice.com/)
 - [Methods & Tools](http://www.methodsandtools.com/)
+- [MIT Technology Review](http://www.technologyreview.com/)
 - [OSNews](http://www.osnews.com/)
 - [Network World](http://www.networkworld.com/)
 - [re/code](http://recode.net/)
