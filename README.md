@@ -108,6 +108,7 @@ Curated list of web resources to check daily
 - [Methods & Tools](http://www.methodsandtools.com/)
 - [MIT Technology Review](http://www.technologyreview.com/)
 - [OSNews](http://www.osnews.com/)
+- [Pando](https://pando.com/)
 - [Network World](http://www.networkworld.com/)
 - [re/code](http://recode.net/)
 - [Slashdot](http://slashdot.org/)
