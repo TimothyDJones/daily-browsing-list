@@ -4,15 +4,19 @@ Curated list of web resources to check daily
 ## Culture
 - [Aeon Magazine](http://aeon.co/magazine/)
 - [Arts & Letters Daily](http://aldaily.com)
+- [Harper's Magazine](http://harpers.org/)
 - [io9](http://io9.com/)
 - [Mental Floss](http://mentalfloss.com/)
 - [Modern Notion](http://modernnotion.com/)
 - [New York Review of Books](http://www.nybooks.com/)
 - [Pacific Standard](http://www.psmag.com/)
+- [The Paris Review](http://www.theparisreview.org/)
 - [Prospect](http://www.prospectmagazine.co.uk/)
 - [The American Scholar](https://theamericanscholar.org/)
 - [The New Yorker](http://www.newyorker.com/)
 
+## Economics/Finance
+- [The Motley Fool](http://www.fool.com/investing-news/)
 
 ## Freeware/Utilities
 - [Freeware Files](http://www.freewarefiles.com/new_files.php)
@@ -33,6 +37,7 @@ Curated list of web resources to check daily
 ## Humor/Comics
 - [Geek & Poke](http://geek-and-poke.com/)
 - [Indexed](http://thisisindexed.com/)
+- [Life in Prod](https://lifeinprod.wordpress.com/)
 - [xkcd](http://xkcd.com/)
 
 ## Linux
@@ -49,8 +54,11 @@ Curated list of web resources to check daily
 - [The Atlantic](http://www.theatlantic.com/)
 - [BBC News](http://www.bbc.com/news)
 - [Bloomberg Business](http://www.bloomberg.com/)
+- [Boing Boing](http://boingboing.net/)
 - [The Christian Science Monitor](http://www.csmonitor.com/)
 - [The Daily Dot](http://www.dailydot.com/)
+- [Digg](http://digg.com/)
+- [FiveThirtyEight](http://fivethirtyeight.com/)
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
 - [Ozy](http://www.ozy.com/)
@@ -59,14 +67,17 @@ Curated list of web resources to check daily
 - [Salon](http://www.salon.com/)
 - [Slate](http://www.slate.com/)
 - [Vox](http://www.vox.com/)
+- [The Weekly Standard](http://www.weeklystandard.com/)
 
 ## Mathematics/Science
 - [American Scientist](http://www.americanscientist.org/)
 - [Gödel’s Lost Letter and P=NP](https://rjlipton.wordpress.com/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
+- [Science Daily](http://www.sciencedaily.com/)
 - [Scientific American](http://www.scientificamerican.com/)
 
 ## Philosophy
+- [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/)
 
 ## Programming/Development
 - [ACM Queue](http://queue.acm.org/)
@@ -74,15 +85,19 @@ Curated list of web resources to check daily
 - [Lambda the Ultimate - The Programming Languages Weblog](http://lambda-the-ultimate.org/)
 
 ## Psychology/Personal Development
+- [The Art of Manliness](http://www.artofmanliness.com/)
+- [Brain Pickings](https://www.brainpickings.org/)
 - [Farnam Street Blog (Shane Parrish)](https://www.farnamstreetblog.com/)
 
 ## Technology News
 - [Ars Technica](http://arstechnica.com/)
 - [Charlie Stross' Diary](http://www.antipope.org/charlie/blog-static/)
 - [Computerworld](http://www.computerworld.com/)
+- [Datamation](http://www.datamation.com/)
 - [eWeek.com](http://www.eweek.com/)
 - [ExtremeTech](http://www.extremetech.com/)
 - [GeekWire](http://www.geekwire.com/)
+- [Gigaom](https://gigaom.com/)
 - [Hackaday](http://hackaday.com/)
 - **[HackerNews](http://news.ycombinator.com/)**
 - [InfoQ](http://www.infoq.com/)
@@ -92,7 +107,9 @@ Curated list of web resources to check daily
 - [Make Use Of](http://www.makeuseof.com/)
 - [Motherboard](http://motherboard.vice.com/)
 - [Methods & Tools](http://www.methodsandtools.com/)
+- [MIT Technology Review](http://www.technologyreview.com/)
 - [OSNews](http://www.osnews.com/)
+- [Pando](https://pando.com/)
 - [Network World](http://www.networkworld.com/)
 - [re/code](http://recode.net/)
 - [Slashdot](http://slashdot.org/)
@@ -113,6 +130,7 @@ Curated list of web resources to check daily
 - [Design Instruct](http://designinstruct.com/)
 - [DesignM.ag](http://designm.ag/)
 - [DevZum](http://devzum.com/)
+- [Hongkiat](http://www.hongkiat.com/)
 - [Laravel News](http://www.laravel-news.com/archive)
 - [Laravel Reddit](http://www.reddit.com/r/laravel)
 - [ProgrammableWeb](http://www.programmableweb.com/)
