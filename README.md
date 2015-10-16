@@ -6,6 +6,7 @@ Curated list of web resources to check daily
 - [Arts & Letters Daily](http://aldaily.com)
 - [io9](http://io9.com/)
 - [Mental Floss](http://mentalfloss.com/)
+- [Modern Notion](http://modernnotion.com/)
 - [New York Review of Books](http://www.nybooks.com/)
 - [Pacific Standard](http://www.psmag.com/)
 - [Prospect](http://www.prospectmagazine.co.uk/)
