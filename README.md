@@ -40,6 +40,7 @@ Curated list of web resources to check daily
 - [Geek & Poke](http://geek-and-poke.com/)
 - [Indexed](http://thisisindexed.com/)
 - [Life in Prod](https://lifeinprod.wordpress.com/)
+- [The Oatmeal](http://theoatmeal.com/)
 - [xkcd](http://xkcd.com/)
 
 ## Linux
