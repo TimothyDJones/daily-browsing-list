@@ -138,6 +138,7 @@ Curated list of web resources to check daily
 - [Laravel News](http://www.laravel-news.com/archive)
 - [Laravel Reddit](http://www.reddit.com/r/laravel)
 - [PHP Flow](http://phpflow.com/)
+- [PHP Trends](http://phptrends.com/)
 - [ProgrammableWeb](http://www.programmableweb.com/)
 - [ReadWrite](http://readwrite.com/)
 - [The Next Web](http://thenextweb.com/)
