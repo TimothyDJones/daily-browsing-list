@@ -4,6 +4,7 @@ Curated list of web resources to check daily
 ## Culture
 - [Aeon Magazine](http://aeon.co/magazine/)
 - [Arts & Letters Daily](http://aldaily.com)
+- [Grantland](http://grantland.com/)
 - [Harper's Magazine](http://harpers.org/)
 - [io9](http://io9.com/)
 - [Mental Floss](http://mentalfloss.com/)
