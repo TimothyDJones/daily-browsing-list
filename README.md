@@ -90,6 +90,7 @@ Curated list of web resources to check daily
 
 ## Technology News
 - [Ars Technica](http://arstechnica.com/)
+- [BGR](http://bgr.com/)
 - [Charlie Stross' Diary](http://www.antipope.org/charlie/blog-static/)
 - [Computerworld](http://www.computerworld.com/)
 - [Datamation](http://www.datamation.com/)
