@@ -65,6 +65,7 @@ Curated list of web resources to check daily
 - [FiveThirtyEight](http://fivethirtyeight.com/)
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
+- [NewsComAu](http://www.news.com.au/)
 - [Ozy](http://www.ozy.com/)
 - [Politico](http://www.politico.com/)
 - [RawStory](http://www.rawstory.com/)
