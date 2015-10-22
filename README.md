@@ -40,6 +40,7 @@ Curated list of web resources to check daily
 ## Humor/Comics
 - [Geek & Poke](http://geek-and-poke.com/)
 - [Indexed](http://thisisindexed.com/)
+- [Left-Handed Toons](http://www.lefthandedtoons.com/)
 - [Life in Prod](https://lifeinprod.wordpress.com/)
 - [The Oatmeal](http://theoatmeal.com/)
 - [xkcd](http://xkcd.com/)
