@@ -136,6 +136,7 @@ Curated list of web resources to check daily
 - [A List Apart](http://alistapart.com/)
 - [Code Geekz](https://codegeekz.com/)
 - [David Walsh](http://davidwalsh.name/)
+- [Design Hooks](http://designhooks.com/)
 - [Design Instruct](http://designinstruct.com/)
 - [DesignM.ag](http://designm.ag/)
 - [DevZum](http://devzum.com/)
