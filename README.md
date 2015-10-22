@@ -56,6 +56,7 @@ Curated list of web resources to check daily
 - [Atlas Obscura](http://www.atlasobscura.com/)
 
 ## News/Politics/Current Events
+- [Alternet](http://www.alternet.org/)
 - [The Atlantic](http://www.theatlantic.com/)
 - [BBC News](http://www.bbc.com/news)
 - [Bloomberg Business](http://www.bloomberg.com/)
