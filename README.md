@@ -133,6 +133,8 @@ Curated list of web resources to check daily
 - [Voxxed](https://www.voxxed.com/)
 - [Wired](http://www.wired.com/)
 
+## Weather
+- [WindyTy](https://www.windyty.com/)
 
 ## Web Design and Development
 - [A List Apart](http://alistapart.com/)
