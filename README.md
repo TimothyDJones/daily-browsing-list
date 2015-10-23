@@ -121,6 +121,7 @@ Curated list of web resources to check daily
 - [Pando](https://pando.com/)
 - [Network World](http://www.networkworld.com/)
 - [re/code](http://recode.net/)
+- [Robert X. Cringely](http://www.cringely.com/)
 - [Slashdot](http://slashdot.org/)
 - [TechBeacon](http://techbeacon.com/)
 - [TechCrunch](http://techcrunch.com/)
