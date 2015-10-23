@@ -122,6 +122,7 @@ Curated list of web resources to check daily
 - [Network World](http://www.networkworld.com/)
 - [re/code](http://recode.net/)
 - [Robert X. Cringely](http://www.cringely.com/)
+- [Robohub](http://robohub.org/)
 - [Slashdot](http://slashdot.org/)
 - [TechBeacon](http://techbeacon.com/)
 - [TechCrunch](http://techcrunch.com/)
