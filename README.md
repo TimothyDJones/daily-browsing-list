@@ -67,6 +67,7 @@ Curated list of web resources to check daily
 - [FiveThirtyEight](http://fivethirtyeight.com/)
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
+- [NewsComAu](http://www.news.com.au/)
 - [Ozy](http://www.ozy.com/)
 - [Politico](http://www.politico.com/)
 - [RawStory](http://www.rawstory.com/)
@@ -121,6 +122,8 @@ Curated list of web resources to check daily
 - [Pando](https://pando.com/)
 - [Network World](http://www.networkworld.com/)
 - [re/code](http://recode.net/)
+- [Robert X. Cringely](http://www.cringely.com/)
+- [Robohub](http://robohub.org/)
 - [Slashdot](http://slashdot.org/)
 - [TechBeacon](http://techbeacon.com/)
 - [TechCrunch](http://techcrunch.com/)
@@ -131,11 +134,14 @@ Curated list of web resources to check daily
 - [Voxxed](https://www.voxxed.com/)
 - [Wired](http://www.wired.com/)
 
+## Weather
+- [WindyTy](https://www.windyty.com/)
 
 ## Web Design and Development
 - [A List Apart](http://alistapart.com/)
 - [Code Geekz](https://codegeekz.com/)
 - [David Walsh](http://davidwalsh.name/)
+- [Design Hooks](http://designhooks.com/)
 - [Design Instruct](http://designinstruct.com/)
 - [DesignM.ag](http://designm.ag/)
 - [DevZum](http://devzum.com/)
