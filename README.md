@@ -65,6 +65,7 @@ Curated list of web resources to check daily
 - [The Daily Dot](http://www.dailydot.com/)
 - [Digg](http://digg.com/)
 - [FiveThirtyEight](http://fivethirtyeight.com/)
+- [International Business Times](http://www.ibtimes.com/)
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
 - [NewsComAu](http://www.news.com.au/)
