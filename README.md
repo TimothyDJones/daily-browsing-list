@@ -101,6 +101,7 @@ Curated list of web resources to check daily
 - [BGR](http://bgr.com/)
 - [Charlie Stross' Diary](http://www.antipope.org/charlie/blog-static/)
 - [Computerworld](http://www.computerworld.com/)
+- [Cool Tools](http://kk.org/cooltools/)
 - [Datamation](http://www.datamation.com/)
 - [eWeek.com](http://www.eweek.com/)
 - [ExtremeTech](http://www.extremetech.com/)
