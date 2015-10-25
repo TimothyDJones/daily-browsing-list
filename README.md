@@ -97,6 +97,7 @@ Curated list of web resources to check daily
 - [The Art of Manliness](http://www.artofmanliness.com/)
 - [Brain Pickings](https://www.brainpickings.org/)
 - [Farnam Street Blog (Shane Parrish)](https://www.farnamstreetblog.com/)
+- [Lifehack.org](http://www.lifehack.org/)
 
 ## Technology News
 - [Ars Technica](http://arstechnica.com/)
