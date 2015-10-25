@@ -53,6 +53,7 @@ Curated list of web resources to check daily
 - [Web Upd8](http://www.webupd8.org/)
 
 ## Mapping/Cartography/GIS/Geography
+- [Amazing Planet](http://www.amusingplanet.com/)
 - [Atlas Obscura](http://www.atlasobscura.com/)
 
 ## News/Politics/Current Events
