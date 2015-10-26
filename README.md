@@ -58,6 +58,7 @@ Curated list of web resources to check daily
 ## News/Politics/Current Events
 - [Alternet](http://www.alternet.org/)
 - [The Atlantic](http://www.theatlantic.com/)
+- [The Awl](http://www.theawl.com/)
 - [BBC News](http://www.bbc.com/news)
 - [Bloomberg Business](http://www.bloomberg.com/)
 - [Boing Boing](http://boingboing.net/)
