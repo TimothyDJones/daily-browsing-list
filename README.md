@@ -53,6 +53,7 @@ Curated list of web resources to check daily
 - [Web Upd8](http://www.webupd8.org/)
 
 ## Mapping/Cartography/GIS/Geography
+- [Amazing Planet](http://www.amusingplanet.com/)
 - [Atlas Obscura](http://www.atlasobscura.com/)
 
 ## News/Politics/Current Events
@@ -66,6 +67,7 @@ Curated list of web resources to check daily
 - [The Daily Dot](http://www.dailydot.com/)
 - [Digg](http://digg.com/)
 - [FiveThirtyEight](http://fivethirtyeight.com/)
+- [International Business Times](http://www.ibtimes.com/)
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
 - [NewsComAu](http://www.news.com.au/)
@@ -96,12 +98,14 @@ Curated list of web resources to check daily
 - [The Art of Manliness](http://www.artofmanliness.com/)
 - [Brain Pickings](https://www.brainpickings.org/)
 - [Farnam Street Blog (Shane Parrish)](https://www.farnamstreetblog.com/)
+- [Lifehack.org](http://www.lifehack.org/)
 
 ## Technology News
 - [Ars Technica](http://arstechnica.com/)
 - [BGR](http://bgr.com/)
 - [Charlie Stross' Diary](http://www.antipope.org/charlie/blog-static/)
 - [Computerworld](http://www.computerworld.com/)
+- [Cool Tools](http://kk.org/cooltools/)
 - [Datamation](http://www.datamation.com/)
 - [eWeek.com](http://www.eweek.com/)
 - [ExtremeTech](http://www.extremetech.com/)
@@ -118,6 +122,7 @@ Curated list of web resources to check daily
 - [Motherboard](http://motherboard.vice.com/)
 - [Methods & Tools](http://www.methodsandtools.com/)
 - [MIT Technology Review](http://www.technologyreview.com/)
+- [O'Reilly Radar](http://radar.oreilly.com/)
 - [OSNews](http://www.osnews.com/)
 - [Pando](https://pando.com/)
 - [Network World](http://www.networkworld.com/)
