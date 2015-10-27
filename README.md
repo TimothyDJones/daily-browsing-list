@@ -123,6 +123,7 @@ Curated list of web resources to check daily
 - [Motherboard](http://motherboard.vice.com/)
 - [Methods & Tools](http://www.methodsandtools.com/)
 - [MIT Technology Review](http://www.technologyreview.com/)
+- [OMG Ubuntu](http://www.omgubuntu.co.uk/)
 - [O'Reilly Radar](http://radar.oreilly.com/)
 - [OSNews](http://www.osnews.com/)
 - [Pando](https://pando.com/)
