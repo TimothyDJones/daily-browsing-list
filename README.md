@@ -55,6 +55,7 @@ Curated list of web resources to check daily
 ## Mapping/Cartography/GIS/Geography
 - [Amazing Planet](http://www.amusingplanet.com/)
 - [Atlas Obscura](http://www.atlasobscura.com/)
+- [Mapzen](https://mapzen.com/)
 
 ## News/Politics/Current Events
 - [Alternet](http://www.alternet.org/)
