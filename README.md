@@ -164,6 +164,7 @@ Curated list of web resources to check daily
 - [Scotch.io](http://scotch.io)
 - **[Sitepoint](http://www.sitepoint.com/)**
 - **[Smashing Magazine](http://www.smashingmagazine.com/)**
+- [Team Treehouse Blog](http://blog.teamtreehouse.com/)
 - [Tuts+ Code](http://code.tutsplus.com/)
 - [Tuts+ Web Design](http://webdesign.tutsplus.com/)
 - [Tympanus](http://tympanus.net/codrops/)
