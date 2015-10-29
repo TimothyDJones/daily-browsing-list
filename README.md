@@ -117,6 +117,7 @@ Curated list of web resources to check daily
 - [Gigaom](https://gigaom.com/)
 - [Hackaday](http://hackaday.com/)
 - **[HackerNews](http://news.ycombinator.com/)**
+- [IEEE Spectrum](http://spectrum.ieee.org/)
 - [InfoQ](http://www.infoq.com/)
 - [InfoWorld](http://www.infoworld.com/)
 - [ITworld](http://www.itworld.com/)
