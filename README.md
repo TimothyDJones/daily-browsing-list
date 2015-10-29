@@ -141,6 +141,7 @@ Curated list of web resources to check daily
 - [The Verge](http://www.theverge.com/)
 - [Voxxed](https://www.voxxed.com/)
 - [Wired](http://www.wired.com/)
+- [ZDNet](http://www.zdnet.com/)
 
 ## Weather
 - [WindyTy](https://www.windyty.com/)
