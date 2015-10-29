@@ -55,10 +55,12 @@ Curated list of web resources to check daily
 ## Mapping/Cartography/GIS/Geography
 - [Amazing Planet](http://www.amusingplanet.com/)
 - [Atlas Obscura](http://www.atlasobscura.com/)
+- [Mapzen](https://mapzen.com/)
 
 ## News/Politics/Current Events
 - [Alternet](http://www.alternet.org/)
 - [The Atlantic](http://www.theatlantic.com/)
+- [The Awl](http://www.theawl.com/)
 - [BBC News](http://www.bbc.com/news)
 - [Bloomberg Business](http://www.bloomberg.com/)
 - [Boing Boing](http://boingboing.net/)
@@ -83,6 +85,7 @@ Curated list of web resources to check daily
 - [Gödel’s Lost Letter and P=NP](https://rjlipton.wordpress.com/)
 - [IFLScience](http://www.iflscience.com/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
+- [Real Clear Science](http://www.realclearscience.com/)
 - [Science Daily](http://www.sciencedaily.com/)
 - [Scientific American](http://www.scientificamerican.com/)
 
@@ -122,6 +125,7 @@ Curated list of web resources to check daily
 - [Motherboard](http://motherboard.vice.com/)
 - [Methods & Tools](http://www.methodsandtools.com/)
 - [MIT Technology Review](http://www.technologyreview.com/)
+- [OMG Ubuntu](http://www.omgubuntu.co.uk/)
 - [O'Reilly Radar](http://radar.oreilly.com/)
 - [OSNews](http://www.osnews.com/)
 - [Pando](https://pando.com/)
@@ -161,6 +165,7 @@ Curated list of web resources to check daily
 - [Scotch.io](http://scotch.io)
 - **[Sitepoint](http://www.sitepoint.com/)**
 - **[Smashing Magazine](http://www.smashingmagazine.com/)**
+- [Team Treehouse Blog](http://blog.teamtreehouse.com/)
 - [Tuts+ Code](http://code.tutsplus.com/)
 - [Tuts+ Web Design](http://webdesign.tutsplus.com/)
 - [Tympanus](http://tympanus.net/codrops/)
