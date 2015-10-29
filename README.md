@@ -107,6 +107,7 @@ Curated list of web resources to check daily
 - [Ars Technica](http://arstechnica.com/)
 - [BGR](http://bgr.com/)
 - [Charlie Stross' Diary](http://www.antipope.org/charlie/blog-static/)
+- [CNET](http://www.cnet.com/)
 - [Computerworld](http://www.computerworld.com/)
 - [Cool Tools](http://kk.org/cooltools/)
 - [Datamation](http://www.datamation.com/)
