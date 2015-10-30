@@ -35,6 +35,7 @@ Curated list of web resources to check daily
 - [Medieval Books](http://medievalbooks.nl/)
 - [Past Is Present](http://pastispresent.org/)
 - [Public Domain Review](http://publicdomainreview.org/)
+- [Smithsonian Magazine](http://www.smithsonianmag.com/)
 - [We're History](http://werehistory.org/)
 
 ## Humor/Comics
