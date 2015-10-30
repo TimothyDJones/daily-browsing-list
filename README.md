@@ -10,6 +10,7 @@ Curated list of web resources to check daily
 - [io9](http://io9.com/)
 - [Mental Floss](http://mentalfloss.com/)
 - [Modern Notion](http://modernnotion.com/)
+- [New York Magazine](http://nymag.com/)
 - [New York Review of Books](http://www.nybooks.com/)
 - [Pacific Standard](http://www.psmag.com/)
 - [The Paris Review](http://www.theparisreview.org/)
