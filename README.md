@@ -45,6 +45,7 @@ Curated list of web resources to check daily
 - [Left-Handed Toons](http://www.lefthandedtoons.com/)
 - [Life in Prod](https://lifeinprod.wordpress.com/)
 - [The Oatmeal](http://theoatmeal.com/)
+- [Off the Mark](https://www.offthemark.com/)
 - [xkcd](http://xkcd.com/)
 
 ## Linux
