@@ -154,6 +154,7 @@ Curated list of web resources to check daily
 - [Design Instruct](http://designinstruct.com/)
 - [DesignM.ag](http://designm.ag/)
 - [DevZum](http://devzum.com/)
+- [DzineFlip](http://www.dzineflip.com/)
 - [Hongkiat](http://www.hongkiat.com/)
 - [Laravel News](http://www.laravel-news.com/archive)
 - [Laravel Reddit](http://www.reddit.com/r/laravel)
