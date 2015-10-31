@@ -5,6 +5,7 @@ Curated list of web resources to check daily
 - [Aeon Magazine](http://aeon.co/magazine/)
 - [Arts & Letters Daily](http://aldaily.com)
 - [Dangerous Minds](http://dangerousminds.net/)
+- [Disinformation](http://disinfo.com/)
 - [Grantland](http://grantland.com/)
 - [Harper's Magazine](http://harpers.org/)
 - [io9](http://io9.com/)
