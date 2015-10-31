@@ -10,6 +10,7 @@ Curated list of web resources to check daily
 - [io9](http://io9.com/)
 - [Mental Floss](http://mentalfloss.com/)
 - [Modern Notion](http://modernnotion.com/)
+- [New York Magazine](http://nymag.com/)
 - [New York Review of Books](http://www.nybooks.com/)
 - [Pacific Standard](http://www.psmag.com/)
 - [The Paris Review](http://www.theparisreview.org/)
@@ -35,14 +36,17 @@ Curated list of web resources to check daily
 - [Medieval Books](http://medievalbooks.nl/)
 - [Past Is Present](http://pastispresent.org/)
 - [Public Domain Review](http://publicdomainreview.org/)
+- [Smithsonian Magazine](http://www.smithsonianmag.com/)
 - [We're History](http://werehistory.org/)
 
 ## Humor/Comics
+- [Comics Kingdom](http://comicskingdom.com/)
 - [Geek & Poke](http://geek-and-poke.com/)
 - [Indexed](http://thisisindexed.com/)
 - [Left-Handed Toons](http://www.lefthandedtoons.com/)
 - [Life in Prod](https://lifeinprod.wordpress.com/)
 - [The Oatmeal](http://theoatmeal.com/)
+- [Off the Mark](https://www.offthemark.com/)
 - [xkcd](http://xkcd.com/)
 
 ## Linux
@@ -68,6 +72,8 @@ Curated list of web resources to check daily
 - [The Daily Dot](http://www.dailydot.com/)
 - [Digg](http://digg.com/)
 - [FiveThirtyEight](http://fivethirtyeight.com/)
+- [The Hill](http://thehill.com/)
+- [The Huffington Post](http://www.huffingtonpost.com/)
 - [International Business Times](http://www.ibtimes.com/)
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
@@ -107,6 +113,7 @@ Curated list of web resources to check daily
 - [Ars Technica](http://arstechnica.com/)
 - [BGR](http://bgr.com/)
 - [Charlie Stross' Diary](http://www.antipope.org/charlie/blog-static/)
+- [CNET](http://www.cnet.com/)
 - [Computerworld](http://www.computerworld.com/)
 - [Cool Tools](http://kk.org/cooltools/)
 - [Datamation](http://www.datamation.com/)
@@ -116,6 +123,7 @@ Curated list of web resources to check daily
 - [Gigaom](https://gigaom.com/)
 - [Hackaday](http://hackaday.com/)
 - **[HackerNews](http://news.ycombinator.com/)**
+- [IEEE Spectrum](http://spectrum.ieee.org/)
 - [InfoQ](http://www.infoq.com/)
 - [InfoWorld](http://www.infoworld.com/)
 - [ITworld](http://www.itworld.com/)
@@ -142,6 +150,7 @@ Curated list of web resources to check daily
 - [The Verge](http://www.theverge.com/)
 - [Voxxed](https://www.voxxed.com/)
 - [Wired](http://www.wired.com/)
+- [ZDNet](http://www.zdnet.com/)
 
 ## Weather
 - [WindyTy](https://www.windyty.com/)
