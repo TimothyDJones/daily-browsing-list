@@ -95,6 +95,7 @@ Curated list of web resources to check daily
 - [IFLScience](http://www.iflscience.com/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Real Clear Science](http://www.realclearscience.com/)
+- [Science Alert](http://www.sciencealert.com/)
 - [Science Daily](http://www.sciencedaily.com/)
 - [Scientific American](http://www.scientificamerican.com/)
 
