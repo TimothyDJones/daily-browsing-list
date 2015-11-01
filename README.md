@@ -80,6 +80,7 @@ Curated list of web resources to check daily
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
 - [NewsComAu](http://www.news.com.au/)
+- [Newsweek](http://www.newsweek.com/)
 - [Ozy](http://www.ozy.com/)
 - [Politico](http://www.politico.com/)
 - [RawStory](http://www.rawstory.com/)
