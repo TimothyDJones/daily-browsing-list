@@ -19,6 +19,7 @@ Curated list of web resources to check daily
 - [Swiss Miss](http://www.swiss-miss.com/)
 - [The American Scholar](https://theamericanscholar.org/)
 - [The New Yorker](http://www.newyorker.com/)
+- [This Land Press](http://thislandpress.com/)
 
 ## Economics/Finance
 - [The Motley Fool](http://www.fool.com/investing-news/)
