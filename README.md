@@ -157,6 +157,7 @@ Curated list of web resources to check daily
 
 ## Web Design and Development
 - [A List Apart](http://alistapart.com/)
+- [App Developer Magazine](https://appdevelopermagazine.com/)
 - [Code Geekz](https://codegeekz.com/)
 - [David Walsh](http://davidwalsh.name/)
 - [Design Hooks](http://designhooks.com/)
