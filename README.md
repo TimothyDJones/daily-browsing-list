@@ -49,6 +49,7 @@ Curated list of web resources to check daily
 - [Life in Prod](https://lifeinprod.wordpress.com/)
 - [The Oatmeal](http://theoatmeal.com/)
 - [Off the Mark](https://www.offthemark.com/)
+- [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/)
 - [xkcd](http://xkcd.com/)
 
 ## Linux
