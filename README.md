@@ -5,6 +5,7 @@ Curated list of web resources to check daily
 - [Aeon Magazine](http://aeon.co/magazine/)
 - [Arts & Letters Daily](http://aldaily.com)
 - [Dangerous Minds](http://dangerousminds.net/)
+- [Disinformation](http://disinfo.com/)
 - [Grantland](http://grantland.com/)
 - [Harper's Magazine](http://harpers.org/)
 - [io9](http://io9.com/)
@@ -18,6 +19,7 @@ Curated list of web resources to check daily
 - [Swiss Miss](http://www.swiss-miss.com/)
 - [The American Scholar](https://theamericanscholar.org/)
 - [The New Yorker](http://www.newyorker.com/)
+- [This Land Press](http://thislandpress.com/)
 
 ## Economics/Finance
 - [The Motley Fool](http://www.fool.com/investing-news/)
@@ -47,6 +49,7 @@ Curated list of web resources to check daily
 - [Life in Prod](https://lifeinprod.wordpress.com/)
 - [The Oatmeal](http://theoatmeal.com/)
 - [Off the Mark](https://www.offthemark.com/)
+- [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/)
 - [xkcd](http://xkcd.com/)
 
 ## Linux
@@ -78,6 +81,7 @@ Curated list of web resources to check daily
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
 - [NewsComAu](http://www.news.com.au/)
+- [Newsweek](http://www.newsweek.com/)
 - [Ozy](http://www.ozy.com/)
 - [Politico](http://www.politico.com/)
 - [RawStory](http://www.rawstory.com/)
@@ -92,6 +96,7 @@ Curated list of web resources to check daily
 - [IFLScience](http://www.iflscience.com/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Real Clear Science](http://www.realclearscience.com/)
+- [Science Alert](http://www.sciencealert.com/)
 - [Science Daily](http://www.sciencedaily.com/)
 - [Scientific American](http://www.scientificamerican.com/)
 
@@ -164,6 +169,7 @@ Curated list of web resources to check daily
 - [Design Instruct](http://designinstruct.com/)
 - [DesignM.ag](http://designm.ag/)
 - [DevZum](http://devzum.com/)
+- [DzineFlip](http://www.dzineflip.com/)
 - [Hongkiat](http://www.hongkiat.com/)
 - [Laravel News](http://www.laravel-news.com/archive)
 - [Laravel Reddit](http://www.reddit.com/r/laravel)
