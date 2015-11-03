@@ -15,6 +15,7 @@ Curated list of web resources to check daily
 - [New York Review of Books](http://www.nybooks.com/)
 - [Pacific Standard](http://www.psmag.com/)
 - [The Paris Review](http://www.theparisreview.org/)
+- [Paste Magazine](http://www.pastemagazine.com/)
 - [Prospect](http://www.prospectmagazine.co.uk/)
 - [Swiss Miss](http://www.swiss-miss.com/)
 - [The American Scholar](https://theamericanscholar.org/)
