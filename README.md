@@ -95,6 +95,7 @@ Curated list of web resources to check daily
 - [American Scientist](http://www.americanscientist.org/)
 - [Gödel’s Lost Letter and P=NP](https://rjlipton.wordpress.com/)
 - [IFLScience](http://www.iflscience.com/)
+- [John D. Cook](http://www.johndcook.com/blog/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Real Clear Science](http://www.realclearscience.com/)
 - [Science Alert](http://www.sciencealert.com/)
