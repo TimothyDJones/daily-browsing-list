@@ -23,6 +23,7 @@ Curated list of web resources to check daily
 
 ## Economics/Finance
 - [The Motley Fool](http://www.fool.com/investing-news/)
+- [Ribbon Farm](http://www.ribbonfarm.com/)
 
 ## Freeware/Utilities
 - [Freeware Files](http://www.freewarefiles.com/new_files.php)
