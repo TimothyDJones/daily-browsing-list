@@ -105,6 +105,7 @@ Curated list of web resources to check daily
 - [Science Alert](http://www.sciencealert.com/)
 - [Science Daily](http://www.sciencedaily.com/)
 - [Scientific American](http://www.scientificamerican.com/)
+- [Theorem of the Day](http://www.theoremoftheday.org/)
 
 ## Philosophy
 - [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/)
