@@ -83,6 +83,7 @@ Curated list of web resources to check daily
 - [International Business Times](http://www.ibtimes.com/)
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
+- [New Republic](http://www.newrepublic.com/)
 - [NewsComAu](http://www.news.com.au/)
 - [Newsweek](http://www.newsweek.com/)
 - [Ozy](http://www.ozy.com/)
