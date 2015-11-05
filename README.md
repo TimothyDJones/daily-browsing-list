@@ -138,6 +138,7 @@ Curated list of web resources to check daily
 - [IEEE Spectrum](http://spectrum.ieee.org/)
 - [InfoQ](http://www.infoq.com/)
 - [InfoWorld](http://www.infoworld.com/)
+- [Information Week](http://www.informationweek.com/)
 - [ITworld](http://www.itworld.com/)
 - [Make](http://makezine.com/)
 - [Make Use Of](http://www.makeuseof.com/)
