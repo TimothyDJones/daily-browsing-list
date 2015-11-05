@@ -18,6 +18,7 @@ Curated list of web resources to check daily
 - [The Paris Review](http://www.theparisreview.org/)
 - [Paste Magazine](http://www.pastemagazine.com/)
 - [Prospect](http://www.prospectmagazine.co.uk/)
+- [Slate Star Codex](http://slatestarcodex.com/)
 - [Swiss Miss](http://www.swiss-miss.com/)
 - [The American Scholar](https://theamericanscholar.org/)
 - [The New Yorker](http://www.newyorker.com/)
