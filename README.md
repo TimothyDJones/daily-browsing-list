@@ -108,10 +108,11 @@ Curated list of web resources to check daily
 ## Philosophy
 - [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/)
 
-## Programming/Development
+## Programming/Development/Computer Science
 - [ACM Queue](http://queue.acm.org/)
 - [JAXenter](https://jaxenter.com/)
 - [Lambda the Ultimate - The Programming Languages Weblog](http://lambda-the-ultimate.org/)
+- [Shtetl-Optimized (Scott Aaronson)](http://www.scottaaronson.com/blog/)
 
 ## Psychology/Personal Development
 - [The Art of Manliness](http://www.artofmanliness.com/)
