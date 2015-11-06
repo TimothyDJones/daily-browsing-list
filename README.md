@@ -113,6 +113,7 @@ Curated list of web resources to check daily
 
 ## Programming/Development/Computer Science
 - [ACM Queue](http://queue.acm.org/)
+- [Java World](http://www.javaworld.com/)
 - [JAXenter](https://jaxenter.com/)
 - [Lambda the Ultimate - The Programming Languages Weblog](http://lambda-the-ultimate.org/)
 - [Shtetl-Optimized (Scott Aaronson)](http://www.scottaaronson.com/blog/)
