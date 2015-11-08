@@ -88,6 +88,7 @@ Curated list of web resources to check daily
 - [New Republic](http://www.newrepublic.com/)
 - [NewsComAu](http://www.news.com.au/)
 - [Newsweek](http://www.newsweek.com/)
+- [The Okie](http://www.theokie.com/)
 - [Ozy](http://www.ozy.com/)
 - [Politico](http://www.politico.com/)
 - [RawStory](http://www.rawstory.com/)
