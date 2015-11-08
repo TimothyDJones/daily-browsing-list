@@ -11,11 +11,14 @@ Curated list of web resources to check daily
 - [io9](http://io9.com/)
 - [Mental Floss](http://mentalfloss.com/)
 - [Modern Notion](http://modernnotion.com/)
+- [New Statesman](http://www.newstatesman.com/)
 - [New York Magazine](http://nymag.com/)
 - [New York Review of Books](http://www.nybooks.com/)
 - [Pacific Standard](http://www.psmag.com/)
 - [The Paris Review](http://www.theparisreview.org/)
+- [Paste Magazine](http://www.pastemagazine.com/)
 - [Prospect](http://www.prospectmagazine.co.uk/)
+- [Slate Star Codex](http://slatestarcodex.com/)
 - [Swiss Miss](http://www.swiss-miss.com/)
 - [The American Scholar](https://theamericanscholar.org/)
 - [The New Yorker](http://www.newyorker.com/)
@@ -23,6 +26,7 @@ Curated list of web resources to check daily
 
 ## Economics/Finance
 - [The Motley Fool](http://www.fool.com/investing-news/)
+- [Ribbon Farm](http://www.ribbonfarm.com/)
 
 ## Freeware/Utilities
 - [Freeware Files](http://www.freewarefiles.com/new_files.php)
@@ -81,6 +85,7 @@ Curated list of web resources to check daily
 - [International Business Times](http://www.ibtimes.com/)
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
+- [New Republic](http://www.newrepublic.com/)
 - [NewsComAu](http://www.news.com.au/)
 - [Newsweek](http://www.newsweek.com/)
 - [Ozy](http://www.ozy.com/)
@@ -95,19 +100,24 @@ Curated list of web resources to check daily
 - [American Scientist](http://www.americanscientist.org/)
 - [Gödel’s Lost Letter and P=NP](https://rjlipton.wordpress.com/)
 - [IFLScience](http://www.iflscience.com/)
+- [John D. Cook](http://www.johndcook.com/blog/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Real Clear Science](http://www.realclearscience.com/)
 - [Science Alert](http://www.sciencealert.com/)
 - [Science Daily](http://www.sciencedaily.com/)
 - [Scientific American](http://www.scientificamerican.com/)
+- [Seed Magazine](http://seedmagazine.com/)
+- [Theorem of the Day](http://www.theoremoftheday.org/)
 
 ## Philosophy
 - [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/)
 
-## Programming/Development
+## Programming/Development/Computer Science
 - [ACM Queue](http://queue.acm.org/)
+- [Java World](http://www.javaworld.com/)
 - [JAXenter](https://jaxenter.com/)
 - [Lambda the Ultimate - The Programming Languages Weblog](http://lambda-the-ultimate.org/)
+- [Shtetl-Optimized (Scott Aaronson)](http://www.scottaaronson.com/blog/)
 
 ## Psychology/Personal Development
 - [The Art of Manliness](http://www.artofmanliness.com/)
@@ -132,6 +142,7 @@ Curated list of web resources to check daily
 - [IEEE Spectrum](http://spectrum.ieee.org/)
 - [InfoQ](http://www.infoq.com/)
 - [InfoWorld](http://www.infoworld.com/)
+- [Information Week](http://www.informationweek.com/)
 - [ITworld](http://www.itworld.com/)
 - [Make](http://makezine.com/)
 - [Make Use Of](http://www.makeuseof.com/)
@@ -163,6 +174,7 @@ Curated list of web resources to check daily
 
 ## Web Design and Development
 - [A List Apart](http://alistapart.com/)
+- [App Developer Magazine](https://appdevelopermagazine.com/)
 - [Code Geekz](https://codegeekz.com/)
 - [David Walsh](http://davidwalsh.name/)
 - [Design Hooks](http://designhooks.com/)
