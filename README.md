@@ -72,6 +72,7 @@ Curated list of web resources to check daily
 - [Bloomberg Business](http://www.bloomberg.com/)
 - [Boing Boing](http://boingboing.net/)
 - [The Christian Science Monitor](http://www.csmonitor.com/)
+- [CNS News](http://www.cnsnews.com/)
 - [The Daily Dot](http://www.dailydot.com/)
 - [Digg](http://digg.com/)
 - [FiveThirtyEight](http://fivethirtyeight.com/)
