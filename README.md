@@ -110,6 +110,7 @@ Curated list of web resources to check daily
 - [Scientific American](http://www.scientificamerican.com/)
 - [Seed Magazine](http://seedmagazine.com/)
 - [Theorem of the Day](http://www.theoremoftheday.org/)
+- [Universe Today](http://www.universetoday.com/)
 
 ## Philosophy
 - [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/)
