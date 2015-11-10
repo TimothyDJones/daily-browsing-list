@@ -147,6 +147,7 @@ Curated list of web resources to check daily
 - [InfoWorld](http://www.infoworld.com/)
 - [Information Week](http://www.informationweek.com/)
 - [ITworld](http://www.itworld.com/)
+- [The Kernel Magazine](http://kernelmag.dailydot.com/)
 - [Make](http://makezine.com/)
 - [Make Use Of](http://www.makeuseof.com/)
 - [Mashable](http://mashable.com/)
