@@ -106,6 +106,7 @@ Curated list of web resources to check daily
 - [Grist](http://grist.org/)
 - [IFLScience](http://www.iflscience.com/)
 - [John D. Cook](http://www.johndcook.com/blog/)
+- [New Scientist](https://www.newscientist.com/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Real Clear Science](http://www.realclearscience.com/)
 - [Science Alert](http://www.sciencealert.com/)
