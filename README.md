@@ -124,6 +124,7 @@ Curated list of web resources to check daily
 - [JAXenter](https://jaxenter.com/)
 - [Lambda the Ultimate - The Programming Languages Weblog](http://lambda-the-ultimate.org/)
 - [Shtetl-Optimized (Scott Aaronson)](http://www.scottaaronson.com/blog/)
+- [Software Engineering Daily](http://softwareengineeringdaily.com/)
 
 ## Psychology/Personal Development
 - [The Art of Manliness](http://www.artofmanliness.com/)
