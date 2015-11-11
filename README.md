@@ -166,6 +166,7 @@ Curated list of web resources to check daily
 - [re/code](http://recode.net/)
 - [Robert X. Cringely](http://www.cringely.com/)
 - [Robohub](http://robohub.org/)
+- [SD Times](http://sdtimes.com/)
 - [Slashdot](http://slashdot.org/)
 - [TechBeacon](http://techbeacon.com/)
 - [TechCrunch](http://techcrunch.com/)
