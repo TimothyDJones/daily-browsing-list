@@ -97,6 +97,7 @@ Curated list of web resources to check daily
 - [RawStory](http://www.rawstory.com/)
 - [Salon](http://www.salon.com/)
 - [Slate](http://www.slate.com/)
+- [Visual News](http://www.visualnews.com/)
 - [Vox](http://www.vox.com/)
 - [The Weekly Standard](http://www.weeklystandard.com/)
 
