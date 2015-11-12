@@ -14,6 +14,7 @@ Curated list of web resources to check daily
 - [New Statesman](http://www.newstatesman.com/)
 - [New York Magazine](http://nymag.com/)
 - [New York Review of Books](http://www.nybooks.com/)
+- [Oddity Central](http://www.odditycentral.com/)
 - [Pacific Standard](http://www.psmag.com/)
 - [The Paris Review](http://www.theparisreview.org/)
 - [Paste Magazine](http://www.pastemagazine.com/)
@@ -82,6 +83,7 @@ Curated list of web resources to check daily
 - [FiveThirtyEight](http://fivethirtyeight.com/)
 - [The Hill](http://thehill.com/)
 - [The Huffington Post](http://www.huffingtonpost.com/)
+- [The Intercept](https://theintercept.com/)
 - [International Business Times](http://www.ibtimes.com/)
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
@@ -91,6 +93,7 @@ Curated list of web resources to check daily
 - [The Okie](http://www.theokie.com/)
 - [Ozy](http://www.ozy.com/)
 - [Politico](http://www.politico.com/)
+- [Propublica](https://www.propublica.org/)
 - [RawStory](http://www.rawstory.com/)
 - [Salon](http://www.salon.com/)
 - [Slate](http://www.slate.com/)
@@ -100,8 +103,10 @@ Curated list of web resources to check daily
 ## Mathematics/Science
 - [American Scientist](http://www.americanscientist.org/)
 - [Gödel’s Lost Letter and P=NP](https://rjlipton.wordpress.com/)
+- [Grist](http://grist.org/)
 - [IFLScience](http://www.iflscience.com/)
 - [John D. Cook](http://www.johndcook.com/blog/)
+- [New Scientist](https://www.newscientist.com/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Real Clear Science](http://www.realclearscience.com/)
 - [Science Alert](http://www.sciencealert.com/)
@@ -109,6 +114,7 @@ Curated list of web resources to check daily
 - [Scientific American](http://www.scientificamerican.com/)
 - [Seed Magazine](http://seedmagazine.com/)
 - [Theorem of the Day](http://www.theoremoftheday.org/)
+- [Universe Today](http://www.universetoday.com/)
 
 ## Philosophy
 - [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/)
@@ -119,6 +125,7 @@ Curated list of web resources to check daily
 - [JAXenter](https://jaxenter.com/)
 - [Lambda the Ultimate - The Programming Languages Weblog](http://lambda-the-ultimate.org/)
 - [Shtetl-Optimized (Scott Aaronson)](http://www.scottaaronson.com/blog/)
+- [Software Engineering Daily](http://softwareengineeringdaily.com/)
 
 ## Psychology/Personal Development
 - [The Art of Manliness](http://www.artofmanliness.com/)
@@ -145,6 +152,7 @@ Curated list of web resources to check daily
 - [InfoWorld](http://www.infoworld.com/)
 - [Information Week](http://www.informationweek.com/)
 - [ITworld](http://www.itworld.com/)
+- [The Kernel Magazine](http://kernelmag.dailydot.com/)
 - [Make](http://makezine.com/)
 - [Make Use Of](http://www.makeuseof.com/)
 - [Mashable](http://mashable.com/)
@@ -159,6 +167,7 @@ Curated list of web resources to check daily
 - [re/code](http://recode.net/)
 - [Robert X. Cringely](http://www.cringely.com/)
 - [Robohub](http://robohub.org/)
+- [SD Times](http://sdtimes.com/)
 - [Slashdot](http://slashdot.org/)
 - [TechBeacon](http://techbeacon.com/)
 - [TechCrunch](http://techcrunch.com/)
