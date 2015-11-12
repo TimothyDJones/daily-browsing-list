@@ -175,6 +175,7 @@ Curated list of web resources to check daily
 
 ## Web Design and Development
 - [A List Apart](http://alistapart.com/)
+- [Amit Agarwal/Digital Inspiration](http://www.labnol.org/)
 - [App Developer Magazine](https://appdevelopermagazine.com/)
 - [Code Geekz](https://codegeekz.com/)
 - [David Walsh](http://davidwalsh.name/)
