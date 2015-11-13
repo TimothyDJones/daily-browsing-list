@@ -26,6 +26,7 @@ Curated list of web resources to check daily
 - [This Land Press](http://thislandpress.com/)
 
 ## Economics/Finance
+- [Business Insider](http://www.businessinsider.com/)
 - [The Motley Fool](http://www.fool.com/investing-news/)
 - [Ribbon Farm](http://www.ribbonfarm.com/)
 
