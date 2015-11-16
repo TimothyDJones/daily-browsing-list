@@ -28,6 +28,7 @@ Curated list of web resources to check daily
 ## Economics/Finance
 - [Business Insider](http://www.businessinsider.com/)
 - [The Motley Fool](http://www.fool.com/investing-news/)
+- [ReadThink](https://readthink.com/)
 - [Ribbon Farm](http://www.ribbonfarm.com/)
 
 ## Freeware/Utilities
