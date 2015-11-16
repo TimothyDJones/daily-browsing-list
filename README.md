@@ -48,6 +48,7 @@ Curated list of web resources to check daily
 - [We're History](http://werehistory.org/)
 
 ## Humor/Comics
+- [ClickHole](http://www.clickhole.com/)
 - [Comics Kingdom](http://comicskingdom.com/)
 - [Geek & Poke](http://geek-and-poke.com/)
 - [Indexed](http://thisisindexed.com/)
