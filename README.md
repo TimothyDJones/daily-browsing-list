@@ -146,6 +146,7 @@ Curated list of web resources to check daily
 - [Datamation](http://www.datamation.com/)
 - [eWeek.com](http://www.eweek.com/)
 - [ExtremeTech](http://www.extremetech.com/)
+- [Fast Company](http://www.fastcompany.com/)
 - [GeekWire](http://www.geekwire.com/)
 - [Gigaom](https://gigaom.com/)
 - [Hackaday](http://hackaday.com/)
