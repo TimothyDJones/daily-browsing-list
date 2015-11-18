@@ -139,6 +139,7 @@ Curated list of web resources to check daily
 - [Lifehack.org](http://www.lifehack.org/)
 
 ## Technology News
+- [Alphr](http://www.alphr.com/)
 - [Ars Technica](http://arstechnica.com/)
 - [BGR](http://bgr.com/)
 - [Charlie Stross' Diary](http://www.antipope.org/charlie/blog-static/)
