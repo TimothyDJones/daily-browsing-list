@@ -107,6 +107,7 @@ Curated list of web resources to check daily
 ## Mathematics/Science
 - [American Scientist](http://www.americanscientist.org/)
 - [Gödel’s Lost Letter and P=NP](https://rjlipton.wordpress.com/)
+- [Good Math/Bad Math Blog](http://www.goodmath.org/blog/)
 - [Grist](http://grist.org/)
 - [IFLScience](http://www.iflscience.com/)
 - [John D. Cook](http://www.johndcook.com/blog/)
