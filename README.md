@@ -87,6 +87,7 @@ Curated list of web resources to check daily
 - [The Hill](http://thehill.com/)
 - [The Huffington Post](http://www.huffingtonpost.com/)
 - [The Intercept](https://theintercept.com/)
+- [Interesting Engineering](http://interestingengineering.com/)
 - [International Business Times](http://www.ibtimes.com/)
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
