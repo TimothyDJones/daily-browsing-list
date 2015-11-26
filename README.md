@@ -162,6 +162,7 @@ Curated list of web resources to check daily
 - [IEEE Spectrum](http://spectrum.ieee.org/)
 - [InfoQ](http://www.infoq.com/)
 - [InfoWorld](http://www.infoworld.com/)
+- [Information Age](http://www.information-age.com/)
 - [Information Week](http://www.informationweek.com/)
 - [ITworld](http://www.itworld.com/)
 - [The Kernel Magazine](http://kernelmag.dailydot.com/)
