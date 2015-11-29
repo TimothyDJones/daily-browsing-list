@@ -16,6 +16,7 @@ Curated list of web resources to check daily
 - [New York Magazine](http://nymag.com/)
 - [New York Review of Books](http://www.nybooks.com/)
 - [Oddity Central](http://www.odditycentral.com/)
+- [Oxford American](http://www.oxfordamerican.org/)
 - [Pacific Standard](http://www.psmag.com/)
 - [The Paris Review](http://www.theparisreview.org/)
 - [Paste Magazine](http://www.pastemagazine.com/)
@@ -27,7 +28,9 @@ Curated list of web resources to check daily
 - [This Land Press](http://thislandpress.com/)
 
 ## Economics/Finance
+- [Business Insider](http://www.businessinsider.com/)
 - [The Motley Fool](http://www.fool.com/investing-news/)
+- [ReadThink](https://readthink.com/)
 - [Ribbon Farm](http://www.ribbonfarm.com/)
 
 ## Freeware/Utilities
@@ -48,6 +51,7 @@ Curated list of web resources to check daily
 - [We're History](http://werehistory.org/)
 
 ## Humor/Comics
+- [ClickHole](http://www.clickhole.com/)
 - [Comics Kingdom](http://comicskingdom.com/)
 - [Geek & Poke](http://geek-and-poke.com/)
 - [Indexed](http://thisisindexed.com/)
@@ -85,6 +89,7 @@ Curated list of web resources to check daily
 - [The Hill](http://thehill.com/)
 - [The Huffington Post](http://www.huffingtonpost.com/)
 - [The Intercept](https://theintercept.com/)
+- [Interesting Engineering](http://interestingengineering.com/)
 - [International Business Times](http://www.ibtimes.com/)
 - [Forbes](http://www.forbes.com/)
 - [The Morning News](http://www.themorningnews.org/)
@@ -98,16 +103,19 @@ Curated list of web resources to check daily
 - [RawStory](http://www.rawstory.com/)
 - [Salon](http://www.salon.com/)
 - [Slate](http://www.slate.com/)
+- [Visual News](http://www.visualnews.com/)
 - [Vox](http://www.vox.com/)
 - [The Weekly Standard](http://www.weeklystandard.com/)
 
 ## Mathematics/Science
 - [American Scientist](http://www.americanscientist.org/)
 - [Gödel’s Lost Letter and P=NP](https://rjlipton.wordpress.com/)
+- [Good Math/Bad Math Blog](http://www.goodmath.org/blog/)
 - [Grist](http://grist.org/)
 - [IFLScience](http://www.iflscience.com/)
 - [John D. Cook](http://www.johndcook.com/blog/)
 - [New Scientist](https://www.newscientist.com/)
+- [Phys.org](http://phys.org/)
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Real Clear Science](http://www.realclearscience.com/)
 - [Science Alert](http://www.sciencealert.com/)
@@ -135,22 +143,27 @@ Curated list of web resources to check daily
 - [Lifehack.org](http://www.lifehack.org/)
 
 ## Technology News
+- [Alphr](http://www.alphr.com/)
 - [Ars Technica](http://arstechnica.com/)
 - [BGR](http://bgr.com/)
 - [Charlie Stross' Diary](http://www.antipope.org/charlie/blog-static/)
+- [CIO.com](http://www.cio.com/)
 - [CNET](http://www.cnet.com/)
 - [Computerworld](http://www.computerworld.com/)
 - [Cool Tools](http://kk.org/cooltools/)
 - [Datamation](http://www.datamation.com/)
 - [eWeek.com](http://www.eweek.com/)
 - [ExtremeTech](http://www.extremetech.com/)
+- [Fast Company](http://www.fastcompany.com/)
 - [GeekWire](http://www.geekwire.com/)
 - [Gigaom](https://gigaom.com/)
 - [Hackaday](http://hackaday.com/)
 - **[HackerNews](http://news.ycombinator.com/)**
+- [Hacking News](http://www.hackingnews.com/)
 - [IEEE Spectrum](http://spectrum.ieee.org/)
 - [InfoQ](http://www.infoq.com/)
 - [InfoWorld](http://www.infoworld.com/)
+- [Information Age](http://www.information-age.com/)
 - [Information Week](http://www.informationweek.com/)
 - [ITworld](http://www.itworld.com/)
 - [The Kernel Magazine](http://kernelmag.dailydot.com/)
@@ -172,6 +185,7 @@ Curated list of web resources to check daily
 - [Slashdot](http://slashdot.org/)
 - [TechBeacon](http://techbeacon.com/)
 - [TechCrunch](http://techcrunch.com/)
+- [Techdirt](https://www.techdirt.com/)
 - [TechRepublic](http://www.techrepublic.com/)
 - [Tecmint](http://www.tecmint.com/)
 - [The Register](http://www.theregister.co.uk/)
