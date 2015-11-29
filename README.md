@@ -11,6 +11,7 @@ Curated list of web resources to check daily
 - [io9](http://io9.com/)
 - [Mental Floss](http://mentalfloss.com/)
 - [Modern Notion](http://modernnotion.com/)
+- [Nerdist](http://nerdist.com/)
 - [New Statesman](http://www.newstatesman.com/)
 - [New York Magazine](http://nymag.com/)
 - [New York Review of Books](http://www.nybooks.com/)
