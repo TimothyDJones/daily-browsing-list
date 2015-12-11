@@ -16,6 +16,7 @@ Curated list of web resources to check daily
 - [New York Magazine](http://nymag.com/)
 - [New York Review of Books](http://www.nybooks.com/)
 - [Oddity Central](http://www.odditycentral.com/)
+- [OmniNerd](http://www.omninerd.com/)
 - [Oxford American](http://www.oxfordamerican.org/)
 - [Pacific Standard](http://www.psmag.com/)
 - [The Paris Review](http://www.theparisreview.org/)
