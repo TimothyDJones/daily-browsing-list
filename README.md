@@ -185,6 +185,7 @@ Curated list of web resources to check daily
 - [TechCrunch](http://techcrunch.com/)
 - [Techdirt](https://www.techdirt.com/)
 - [TechRepublic](http://www.techrepublic.com/)
+- [Tech Times](http://www.techtimes.com/)
 - [Tecmint](http://www.tecmint.com/)
 - [The Register](http://www.theregister.co.uk/)
 - [The Verge](http://www.theverge.com/)
