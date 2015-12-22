@@ -5,6 +5,7 @@ Curated list of web resources to check daily
 - [Aeon Magazine](http://aeon.co/magazine/)
 - [Arts & Letters Daily](http://aldaily.com)
 - [Commentary Magazine](https://www.commentarymagazine.com/)
+- [The Common](http://www.thecommononline.org/)
 - [Dangerous Minds](http://dangerousminds.net/)
 - [Dark Roasted Blend](http://www.darkroastedblend.com/)
 - [Disinformation](http://disinfo.com/)
