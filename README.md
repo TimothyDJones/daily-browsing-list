@@ -12,6 +12,7 @@ Curated list of web resources to check daily
 - [Grantland](http://grantland.com/)
 - [Harper's Magazine](http://harpers.org/)
 - [io9](http://io9.com/)
+- [Literary Hub](http://lithub.com/)
 - [Mental Floss](http://mentalfloss.com/)
 - [Modern Notion](http://modernnotion.com/)
 - [Nerdist](http://nerdist.com/)
