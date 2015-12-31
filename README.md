@@ -3,6 +3,7 @@ Curated list of web resources to check daily
 
 ## Culture
 - [Aeon Magazine](http://aeon.co/magazine/)
+- [Apollo Magazine](http://www.apollo-magazine.com/)
 - [Arts & Letters Daily](http://aldaily.com)
 - [Commentary Magazine](https://www.commentarymagazine.com/)
 - [The Common](http://www.thecommononline.org/)
