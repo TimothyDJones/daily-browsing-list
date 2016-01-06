@@ -91,6 +91,7 @@ Curated list of web resources to check daily
 - [CNS News](http://www.cnsnews.com/)
 - [The Daily Dot](http://www.dailydot.com/)
 - [Digg](http://digg.com/)
+- [Drudge Report](http://www.drudgereport.com/)
 - [FiveThirtyEight](http://fivethirtyeight.com/)
 - [The Hill](http://thehill.com/)
 - [The Huffington Post](http://www.huffingtonpost.com/)
